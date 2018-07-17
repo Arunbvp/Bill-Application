@@ -1,0 +1,8 @@
+c:\users\balakrar\documents\visual studio 2013\Projects\FirstApplication\DXApplication1\bin\Debug\DXApplication1.exe
+c:\users\balakrar\documents\visual studio 2013\Projects\FirstApplication\DXApplication1\bin\Debug\DXApplication1.pdb
+c:\users\balakrar\documents\visual studio 2013\Projects\FirstApplication\DXApplication1\obj\Debug\DXApplication1.Form1.resources
+c:\users\balakrar\documents\visual studio 2013\Projects\FirstApplication\DXApplication1\obj\Debug\DXApplication1.Properties.Resources.resources
+c:\users\balakrar\documents\visual studio 2013\Projects\FirstApplication\DXApplication1\obj\Debug\DXApplication1.csproj.GenerateResource.Cache
+c:\users\balakrar\documents\visual studio 2013\Projects\FirstApplication\DXApplication1\obj\Debug\DXApplication1.exe.licenses
+c:\users\balakrar\documents\visual studio 2013\Projects\FirstApplication\DXApplication1\obj\Debug\DXApplication1.exe
+c:\users\balakrar\documents\visual studio 2013\Projects\FirstApplication\DXApplication1\obj\Debug\DXApplication1.pdb

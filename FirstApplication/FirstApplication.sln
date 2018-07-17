@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstApplication", "FirstApplication\FirstApplication.csproj", "{B8F3832C-CF8D-4FEF-8DB8-6BC33C381F71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DXApplication1", "DXApplication1\DXApplication1.csproj", "{375F2D36-C979-4482-97CC-E5F4F732E14B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8F3832C-CF8D-4FEF-8DB8-6BC33C381F71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8F3832C-CF8D-4FEF-8DB8-6BC33C381F71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8F3832C-CF8D-4FEF-8DB8-6BC33C381F71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8F3832C-CF8D-4FEF-8DB8-6BC33C381F71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{375F2D36-C979-4482-97CC-E5F4F732E14B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{375F2D36-C979-4482-97CC-E5F4F732E14B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{375F2D36-C979-4482-97CC-E5F4F732E14B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{375F2D36-C979-4482-97CC-E5F4F732E14B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+c:\users\balakrar\documents\visual studio 2013\Projects\FirstApplication\FirstApplication\bin\Debug\FirstApplication.exe.config
+c:\users\balakrar\documents\visual studio 2013\Projects\FirstApplication\FirstApplication\bin\Debug\FirstApplication.exe
+c:\users\balakrar\documents\visual studio 2013\Projects\FirstApplication\FirstApplication\bin\Debug\FirstApplication.pdb
+c:\users\balakrar\documents\visual studio 2013\Projects\FirstApplication\FirstApplication\obj\Debug\FirstApplication.BillApp.resources
+c:\users\balakrar\documents\visual studio 2013\Projects\FirstApplication\FirstApplication\obj\Debug\FirstApplication.Properties.Resources.resources
+c:\users\balakrar\documents\visual studio 2013\Projects\FirstApplication\FirstApplication\obj\Debug\FirstApplication.csproj.GenerateResource.Cache
+c:\users\balakrar\documents\visual studio 2013\Projects\FirstApplication\FirstApplication\obj\Debug\FirstApplication.exe
+c:\users\balakrar\documents\visual studio 2013\Projects\FirstApplication\FirstApplication\obj\Debug\FirstApplication.pdb
