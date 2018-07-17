@@ -6,3 +6,11 @@ c:\users\balakrar\documents\visual studio 2013\Projects\FirstApplication\FirstAp
 c:\users\balakrar\documents\visual studio 2013\Projects\FirstApplication\FirstApplication\obj\Debug\FirstApplication.csproj.GenerateResource.Cache
 c:\users\balakrar\documents\visual studio 2013\Projects\FirstApplication\FirstApplication\obj\Debug\FirstApplication.exe
 c:\users\balakrar\documents\visual studio 2013\Projects\FirstApplication\FirstApplication\obj\Debug\FirstApplication.pdb
+C:\Users\balakrar\Documents\GitHub\Bill-Application\FirstApplication\FirstApplication\bin\Debug\FirstApplication.exe.config
+C:\Users\balakrar\Documents\GitHub\Bill-Application\FirstApplication\FirstApplication\obj\Debug\FirstApplication.exe
+C:\Users\balakrar\Documents\GitHub\Bill-Application\FirstApplication\FirstApplication\obj\Debug\FirstApplication.pdb
+C:\Users\balakrar\Documents\GitHub\Bill-Application\FirstApplication\FirstApplication\bin\Debug\FirstApplication.exe
+C:\Users\balakrar\Documents\GitHub\Bill-Application\FirstApplication\FirstApplication\bin\Debug\FirstApplication.pdb
+C:\Users\balakrar\Documents\GitHub\Bill-Application\FirstApplication\FirstApplication\obj\Debug\FirstApplication.BillApp.resources
+C:\Users\balakrar\Documents\GitHub\Bill-Application\FirstApplication\FirstApplication\obj\Debug\FirstApplication.Properties.Resources.resources
+C:\Users\balakrar\Documents\GitHub\Bill-Application\FirstApplication\FirstApplication\obj\Debug\FirstApplication.csproj.GenerateResource.Cache

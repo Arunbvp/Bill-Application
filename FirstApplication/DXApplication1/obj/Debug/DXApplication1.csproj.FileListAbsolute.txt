@@ -6,3 +6,11 @@ c:\users\balakrar\documents\visual studio 2013\Projects\FirstApplication\DXAppli
 c:\users\balakrar\documents\visual studio 2013\Projects\FirstApplication\DXApplication1\obj\Debug\DXApplication1.exe.licenses
 c:\users\balakrar\documents\visual studio 2013\Projects\FirstApplication\DXApplication1\obj\Debug\DXApplication1.exe
 c:\users\balakrar\documents\visual studio 2013\Projects\FirstApplication\DXApplication1\obj\Debug\DXApplication1.pdb
+C:\Users\balakrar\Documents\GitHub\Bill-Application\FirstApplication\DXApplication1\bin\Debug\DXApplication1.exe
+C:\Users\balakrar\Documents\GitHub\Bill-Application\FirstApplication\DXApplication1\bin\Debug\DXApplication1.pdb
+C:\Users\balakrar\Documents\GitHub\Bill-Application\FirstApplication\DXApplication1\obj\Debug\DXApplication1.Form1.resources
+C:\Users\balakrar\Documents\GitHub\Bill-Application\FirstApplication\DXApplication1\obj\Debug\DXApplication1.Properties.Resources.resources
+C:\Users\balakrar\Documents\GitHub\Bill-Application\FirstApplication\DXApplication1\obj\Debug\DXApplication1.csproj.GenerateResource.Cache
+C:\Users\balakrar\Documents\GitHub\Bill-Application\FirstApplication\DXApplication1\obj\Debug\DXApplication1.exe.licenses
+C:\Users\balakrar\Documents\GitHub\Bill-Application\FirstApplication\DXApplication1\obj\Debug\DXApplication1.exe
+C:\Users\balakrar\Documents\GitHub\Bill-Application\FirstApplication\DXApplication1\obj\Debug\DXApplication1.pdb
